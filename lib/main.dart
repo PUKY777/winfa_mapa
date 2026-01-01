@@ -35,27 +35,27 @@ class _HomePageState extends State<HomePage> {
       "img": "assets/afiches/sucreton.jpg",
       "info": "https://ejemplo.com/info1",
       "redes": {
-        "whatsapp": "https://wa.me/59170000000",
-        "facebook": "https://facebook.com",
-        "tiktok": "https://tiktok.com",
+        "whatsapp": null,
+        "facebook": null,
+        "tiktok": null,
       }
     },
     {
       "img": "assets/images/2do.jpg",
-      "info": "https://ejemplo.com/info2",
+      "info": null,
       "redes": {
-        "whatsapp": "https://wa.me/59171111111",
-        "facebook": "https://facebook.com",
-        "tiktok": "https://tiktok.com",
+        "whatsapp": null,
+        "facebook": null,
+        "tiktok": null,
       }
     },
     {
       "img": "assets/images/3ro.jpg",
-      "info": "https://ejemplo.com/info3",
+      "info": null,
       "redes": {
-        "whatsapp": "https://wa.me/59172222222",
-        "facebook": "https://facebook.com",
-        "tiktok": "https://tiktok.com",
+        "whatsapp": null,
+        "facebook": null,
+        "tiktok": null,
       }
     },
   ];
